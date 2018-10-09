@@ -90,15 +90,16 @@ Contents
    :caption: Справочная информация
 
    reference/api2.rst
+   reference/backend-config.rst
    reference/update_client.rst
    reference/desync_monitor.rst
-
+   
 
 .. toctree::
    :maxdepth: 2
    :caption: Инструкции
 
-   howtos/install.rst
+
 
 
 .. todolist::
